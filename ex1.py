@@ -1,4 +1,4 @@
-x = input ("What is your name: ")
+x = input ("What is your first name: ")
 y = input ("What is your age: ")
 z = int (input ("How many times do you want to print the message?: "))
 
