@@ -1,3 +1,6 @@
+"""
+Chooses the perfect man from you based on the number you enter
+"""
 x = {1: "John", 2: "Peter", 3: "Chris", 4: "Tom"}
 b = int(input("Choose a number and we will choose you a man:"))
 
