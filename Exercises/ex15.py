@@ -1,4 +1,7 @@
-count = 100
+"""
+Prints out all numbers from 1 to 100 
+"""
+count = 101
 nums = []
 
 for i in range(count):
