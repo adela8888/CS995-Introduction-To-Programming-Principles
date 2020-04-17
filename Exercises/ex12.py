@@ -1,3 +1,6 @@
+"""
+Prints out a list of odd numbers only from the original list x
+"""
 x =[1,2,3,4,5,44]
 z =[]
 
